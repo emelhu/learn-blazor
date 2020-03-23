@@ -11,5 +11,3 @@ This page is built with [Hugo](https://gohugo.io/). If you want to build and/or 
 This page uses the [Hugo Learn Theme](https://learn.netlify.com/en/). [Install this theme](https://learn.netlify.com/en/basics/installation/#install-the-theme) into the *themes* folder.
 
 Once you have cared for these prerequisites, you can run the site with `hugo server` and build it with `hugo`.
-
----------------------------------------------------------------------------------------------------------------------
