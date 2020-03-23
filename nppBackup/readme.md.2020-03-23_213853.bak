@@ -13,5 +13,3 @@ This page uses the [Hugo Learn Theme](https://learn.netlify.com/en/). [Install t
 Once you have cared for these prerequisites, you can run the site with `hugo server` and build it with `hugo`.
 
 ---------------------------------------------------------------------------------------------------------------------
-
-2020.03.23
